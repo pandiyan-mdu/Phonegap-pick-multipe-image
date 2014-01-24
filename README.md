@@ -1,0 +1,2 @@
+Phonegap-pick-multipe-image
+===========================
